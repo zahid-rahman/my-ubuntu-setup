@@ -6,6 +6,20 @@ setting up my ubuntu 20.04 setup after installation
   - `$ sudo apt update`
   - `$ sudo apt install snapd`
 - #### :zap: installing vscode ` sudo snap install code --classic `
+  - Vscode extensions:
+    - `Bracket Pair Colorizer`
+    - `Auto Rename Tag`
+    - `Eslint`
+    - `Prettier`
+    - `Es7+ React/Redux/React-Native snippets`
+    - `Highlight Matching Tag`
+    - `IntelliCode`
+    - `Live server`
+    - `Material Icon Theme`
+    - `Path intellisence`
+    - `snapshot-tools`
+    - `Tailwind CSS intellisense`
+    
 - #### :zap: installing sublime text ` sudo snap install sublime-text --classic `
 - #### :zap: installing git ` sudo apt install git `
 - #### :zap: installing nvm (node version  `manager)  [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
@@ -21,8 +35,15 @@ setting up my ubuntu 20.04 setup after installation
   - `Fira Code` [https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip)
 
 
-- #### :zap: Themes
-  - WhiteSur GTK theme [https://www.gnome-look.org/p/1403328/](https://www.gnome-look.org/p/1403328/)
-             
+- #### :zap: GTK Themes
+  - ` WhiteSur GTK theme ` [https://www.gnome-look.org/p/1403328/](https://www.gnome-look.org/p/1403328/)
+  - ` Cupertino-Icon theme` [https://www.gnome-look.org/p/1102582/](https://www.gnome-look.org/p/1102582/)
+  
+- #### :zap: Gnome Extensions And Tools
+  - ` net speed `
+  - ` Docker integration `
+  - ` user theme `
+  - ` Floating Dock `
+  
      
 
